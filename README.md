@@ -1,4 +1,4 @@
-# spec-kit
+# spec-coding
 
 Markdown templates for spec-first software development.
 
